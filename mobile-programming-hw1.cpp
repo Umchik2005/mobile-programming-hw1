@@ -1,4 +1,5 @@
 // Muhammad Umar Toshpo'latov 220085
+// ID 220085
 // Tuesday 14:00 group
 
 // Qusetion 1
@@ -466,3 +467,4 @@ int main()
 
 // Question 4
 // Exceptions separate errors from normal flow, but overuse reduces clarity.
+
